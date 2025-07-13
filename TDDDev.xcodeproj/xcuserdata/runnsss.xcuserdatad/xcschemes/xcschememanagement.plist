@@ -9,6 +9,34 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TDDDevTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TDDDevUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A06597AD2E1D561F009A2005</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A06597BA2E1D5620009A2005</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A06597C42E1D5620009A2005</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "6A4C732D-E344-4BAD-A9B4-ECB2D1B3782C",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TDDDev.xcodeproj",
+        "identifier" : "A06597BA2E1D5620009A2005",
+        "name" : "TDDDevTests"
+      }
+    }
+  ],
+  "version" : 1
+}

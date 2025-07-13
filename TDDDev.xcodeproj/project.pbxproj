@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A0236BCB2E23AF280077A365 /* UnittestOnlyTestPlan.xctestplan in Resources */ = {isa = PBXBuildFile; fileRef = A0236BCA2E23AF280077A365 /* UnittestOnlyTestPlan.xctestplan */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A06597BC2E1D5620009A2005 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A0236BCA2E23AF280077A365 /* UnittestOnlyTestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = UnittestOnlyTestPlan.xctestplan; sourceTree = "<group>"; };
 		A06597AE2E1D561F009A2005 /* TDDDev.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TDDDev.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06597BB2E1D5620009A2005 /* TDDDevTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TDDDevTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06597C52E1D5620009A2005 /* TDDDevUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TDDDevUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +80,7 @@
 		A06597A52E1D561F009A2005 = {
 			isa = PBXGroup;
 			children = (
+				A0236BCA2E23AF280077A365 /* UnittestOnlyTestPlan.xctestplan */,
 				A06597B02E1D561F009A2005 /* TDDDev */,
 				A06597BE2E1D5620009A2005 /* TDDDevTests */,
 				A06597C82E1D5620009A2005 /* TDDDevUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0236BCB2E23AF280077A365 /* UnittestOnlyTestPlan.xctestplan in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
